@@ -1,0 +1,88 @@
+1. **Square Pattern:**
+   Print a square pattern of size n. For example, if n is 5, the pattern would be:
+   ```
+   *****
+   *****
+   *****
+   *****
+   *****
+   ```
+
+2. **Right Triangle Pattern:**
+   Print a right-angled triangle pattern of height n. For example, if n is 4, the pattern would be:
+   ```
+   *
+   **
+   ***
+   ****
+   ```
+
+3. **Pyramid Pattern:**
+   Print a pyramid pattern of height n. For example, if n is 3, the pattern would be:
+   ```
+     *
+    ***
+   *****
+   ```
+
+4. **Inverted Pyramid Pattern:**
+   Print an inverted pyramid pattern of height n. For example, if n is 3, the pattern would be:
+   ```
+   *****
+    ***
+     *
+   ```
+
+5. **Diamond Pattern:**
+   Print a diamond pattern of height n. For example, if n is 3, the pattern would be:
+   ```
+     *
+    ***
+   *****
+    ***
+     *
+   ```
+
+6. **Number Pattern - Half Pyramid:**
+   Print a number pattern of height n. For example, if n is 4, the pattern would be:
+   ```
+   1
+   22
+   333
+   4444
+   ```
+
+7. **Hollow Square Pattern:**
+   Print a hollow square pattern of size n. For example, if n is 4, the pattern would be:
+   ```
+   ****
+   *  *
+   *  *
+   ****
+   ```
+
+8. **Hourglass Pattern:**
+   Print an hourglass pattern of height n. For example, if n is 3, the pattern would be:
+   ```
+   *****
+    ***
+     *
+    ***
+   *****
+   ```
+
+9. **Alphabet Pattern - Half Pyramid:**
+   Print an alphabet pattern using letters of the English alphabet. For example, if n is 3, the pattern would be:
+   ```
+   A
+   BB
+   CCC
+   ```
+
+10. **Floyd's Triangle:**
+    Print Floyd's Triangle up to n rows. For example, if n is 3, the pattern would be:
+    ```
+    1
+    2 3
+    4 5 6
+    ```
