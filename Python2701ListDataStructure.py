@@ -37,6 +37,18 @@ for l in list:
         print(l)
 print("-----")
 
-# len()
-# count()
-# index()
+# len() : to find the size of the list
+list = [1,2,3,4,5]
+length_of_list = len(list)
+print(length_of_list) #5
+
+# count() : to find the occurence of a value.
+list = [1,1,2,3,3,3,3,3,3,4,5]
+
+print(list.count(1)) #2
+print(list.count(3)) #6
+
+# index(): this is used to find the index of first occurence of the the item
+list = [1,1,2,3,3,3,3,3,3,4,5]
+print(list.index(1)) #0
+print(list.index(3)) #3
